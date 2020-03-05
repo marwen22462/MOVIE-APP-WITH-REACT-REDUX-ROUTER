@@ -1,0 +1,13 @@
+.homeheader{
+    margin: 10px 0px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.homebody{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
